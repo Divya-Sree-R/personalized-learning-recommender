@@ -1,0 +1,11 @@
+course_id,course_name,topic,difficulty
+C01,Python Basics,Programming,Beginner
+C02,Data Structures,Programming,Intermediate
+C03,OOP in Python,Programming,Intermediate
+C04,Statistics,Math,Beginner
+C05,Linear Algebra,Math,Intermediate
+C06,Machine Learning,AI,Advanced
+C07,Deep Learning,AI,Advanced
+C08,SQL Basics,Database,Beginner
+C09,Advanced SQL,Database,Intermediate
+C10,Data Visualization,Analytics,Beginner
